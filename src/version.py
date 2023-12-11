@@ -23,7 +23,7 @@ systemR = '1.6.7'
 
 def sys_check():
 	print(G + '[>]' + C + ' Checking for system configurations....', end='')
-	sys_url = 'https://raw.githubusercontent.com/mishakorzik/Email-Spammer/main/src/.version'
+	sys_url = 'https://raw.githubusercontent.com/tucommenceapousser/Email-Spammer/main/src/.version'
 	try:
 		sys_rqst = requests.get(sys_url)
 		sys_sc = sys_rqst.status_code
