@@ -1,19 +1,20 @@
-<img width="99.9%" src="https://raw.githubusercontent.com/mishakorzik/Email-Spammer/main/src/IMG-87d8985eff113166042d3845c8bdc621-V.jpg"/>
+<img width="99.9%" src="https://raw.githubusercontent.com/tucommenceapousser/Email-Spammer/main/src/IMG-87d8985eff113166042d3845c8bdc621-V.jpg"/>
 
 <p align="center">
-<a href="https://github.com/mishakorzik/Email-Spamer"><img title="Version" src="https://img.shields.io/badge/Version-1.6.7-darkblue?style=for-the-badge&logo="></a>
-<a href="https://github.com/mishakorzik/Email-Spamer/blob/main/LICENSE"><img title="License" src="https://img.shields.io/badge/License-GNU-darkblue?style=for-the-badge&logo=gnu"></a>
+<a href="https://github.com/tucommenceapousser/Email-Spamer"><img title="Version" src="https://img.shields.io/badge/Version-1.6.7-darkblue?style=for-the-badge&logo="></a>
+<a href="https://github.com/tucommenceapousser/Email-Spamer/blob/main/LICENSE"><img title="License" src="https://img.shields.io/badge/License-GNU-darkblue?style=for-the-badge&logo=gnu"></a>
 <a href=""><img title="Python" src="https://img.shields.io/badge/Python-1.X-blue?style=for-the-badge&logo=python"></a>
-<a href="https://github.com/mishakorzik"><img title="Report" src="https://img.shields.io/badge/Copyring-2021-blue?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/tucommenceapousser"><img title="Report" src="https://img.shields.io/badge/Copyring-2021-blue?style=for-the-badge&logo=github"></a>
 <a href="https://github.com/mishakorzik"><img title="Autor" src="https://img.shields.io/badge/Author-mishakorzik-blue?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/tucommenceapousser"><img title="Modder" src="https://img.shields.io/badge/Author-tucommenceapousser-blue?style=for-the-badge&logo=github"></a>
 
 </p>
 
 <p align="center">
-• <a href="https://github.com/mishakorzik/Email-Spamer/blob/main/LICENSE">License</a> 
-• <a href="https://github.com/mishakorzik/Email-Spamer/issues">Issues</a> 
-• <a href="https://github.com/mishakorzik/Email-Spamer/projects">Project</a> 
-• <a href="https://github.com/mishakorzik/Email-Spamer/wiki">Wikipedia</a> •
+• <a href="https://github.com/tucommenceapousser/Email-Spamer/blob/main/LICENSE">License</a> 
+• <a href="https://github.com/tucommenceapousser/Email-Spamer/issues">Issues</a> 
+• <a href="https://github.com/tucommenceapousser/Email-Spamer/projects">Project</a> 
+• <a href="https://github.com/tucommenceapousser/Email-Spamer/wiki">Wikipedia</a> •
 
 </p>
 
@@ -37,7 +38,7 @@
 * `apt upgrate`
 * `pkg install git`
 * `pkg install python`
-* `git clone https://github.com/mishakorzik/Email-Spammer`
+* `git clone https://github.com/tucommenceapousser/Email-Spammer`
 * `pip3 install requests`
 
 <details id="missing-code-coverage">
@@ -85,6 +86,9 @@ Emails:
 
 Developers:
  mishakorzhik
+
+Modders:
+ trhacknon
 ```
 
 ## Bug?
@@ -115,15 +119,15 @@ If the tool fails, follow these steps:
 #### here you can see a screenshot of Email-Spammer
 <br>
 <p align="center">
-<img width="49.1%" src="https://raw.githubusercontent.com/mishakorzik/Email-Spammer/main/src/IMG_20211018_221028.jpg"/> 
-  <img width="49.1%" src="https://raw.githubusercontent.com/mishakorzik/Email-Spammer/main/src/IMG_20211018_221205.jpg"/> 
-  <img width="49.1%" src="https://raw.githubusercontent.com/mishakorzik/Email-Spammer/main/src/IMG_20211018_221358.jpg"/> 
-<img width="49.1%" src="https://raw.githubusercontent.com/mishakorzik/Email-Spammer/main/src/IMG_20211018_221605.jpg"/>
+<img width="49.1%" src="https://raw.githubusercontent.com/tucommenceapousser/Email-Spammer/main/src/IMG_20211018_221028.jpg"/> 
+  <img width="49.1%" src="https://raw.githubusercontent.com/tucommenceapousser/Email-Spammer/main/src/IMG_20211018_221205.jpg"/> 
+  <img width="49.1%" src="https://raw.githubusercontent.com/tucommenceapousser/Email-Spammer/main/src/IMG_20211018_221358.jpg"/> 
+<img width="49.1%" src="https://raw.githubusercontent.com/tucommenceapousser/Email-Spammer/main/src/IMG_20211018_221605.jpg"/>
 </p>
 
 ## Find Me 
-[![Github](https://img.shields.io/badge/TELEGRAM-MishaKorzhik-orange?style=for-the-badge&logo=telegram)](https://t.me/ubp2q)
-[![Github](https://img.shields.io/badge/GitHub-MishaKorzhik-yellow?style=for-the-badge&logo=github)](https://github.com/mishakorzik)
+[![Github](https://img.shields.io/badge/TELEGRAM-trhacknon-orange?style=for-the-badge&logo=telegram)](https://t.me/trhacknon)
+[![Github](https://img.shields.io/badge/GitHub-tucommenceapousser-yellow?style=for-the-badge&logo=github)](https://github.com/tucommenceapousser)
 [![Github](https://img.shields.io/badge/Twitter-MishaKorzhik-blue?style=for-the-badge&logo=twitter)](https://twitter.com/MishaKorzhik)
 [![Github](https://img.shields.io/badge/Discord-He1Zen-blue?style=for-the-badge&logo=discord)](https://discord.gg/xwpMuMYW57)
 
@@ -131,7 +135,7 @@ If the tool fails, follow these steps:
 
 1.<a href="https://github.com/mishakorzik/qiq">qiq - Useful batch installer</a> <br>
 2.<a href="https://github.com/mishakorzik/Gmail-Hack">Gmail-Hack - Easy email hacking</a> <br>
-3.<a href="https://github.com/mishakorzik/AllHackingTools">AllHackingTools - system for large hacking</a> <br>
+3.<a href="https://github.com/tucommenceapousser/AllHackingTools">AllHackingTools - system for large hacking</a> <br>
 4.<a href="https://github.com/mishakorzik/Infect">Infect - Easy virus creation</a> <br>
 5.<a href="https://github.com/mishakorzik/Free-Proxy">Free-Proxy - Lots of free proxy servers</a> <br>
 6.<a href="https://github.com/mishakorzik/IpHack">IpHack - Easy Tracking smartphones</a> <br>
