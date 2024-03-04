@@ -100,7 +100,7 @@ python data_email.py
 ---
 
 <!-- Vues du référentiel -->
-**Vues du référentiel** ![](https://komarev.com/ghpvc/?username=tucommenceapousser&color=blueviolet&base=1000)
+**Vues du référentiel** ![](https://komarev.com/ghpvc/?username=tucommenceapousser&color=blueviolet&base=1000&style=plastic)
 
 ---
 
