@@ -18,106 +18,105 @@
 
 </p>
 
-> Я не несу ответственности за ваши действия. Скачивая программное обеспечение из этого репозитория, вы соглашаетесь с [лицензией](https://github.com/mishakorzik/Email-Spamer/blob/main/LICENSE).
+<!-- Titre -->
+# 📧 Email-Spammer
+
+> Je ne suis pas responsable de tes actions. En téléchargeant un logiciel à partir de ce référentiel, vous acceptez la [licence](https://github.com/mishakorzik/Email-Spamer/blob/main/LICENSE).
 
 ---
 
-#### Features
-- [x] Fast spam
-- [x] No need to drive your mail
-- [x] Supported on python3
-- [x] Supported other systems
-- [x] Quickly and clearly
-- [x] More supported services
-- [x] Functionality
+<!-- Avertissement -->
+#### 🚨 Avertissement
+- **Je ne suis pas responsable de tes actions.**
+- En téléchargeant un logiciel à partir de ce référentiel, vous acceptez la [licence](https://github.com/mishakorzik/Email-Spamer/blob/main/LICENSE).
 
-----
-## Install
+---
 
-* `apt updade`
-* `apt upgrate`
-* `pkg install git`
-* `pkg install python`
-* `git clone https://github.com/tucommenceapousser/Email-Spammer`
-* `pip3 install requests`
+<!-- Fonctionnalités -->
+## ✨ Fonctionnalités
+- [x] Spam rapide
+- [x] Aucun besoin de conduire votre courrier
+- [x] Prise en charge de Python3
+- [x] Compatible avec d'autres systèmes
+- [x] Rapide et clair
+- [x] Prise en charge de services supplémentaires
+- [x] Fonctionnalités diverses
 
-<details id="missing-code-coverage">
-  <summary>Need help with installation</summary>
+---
 
-**1. If you have problems installing the requests library: python3 -m pip install requests, smtp<br>**
-**2. If modules cannot be downloaded: replace pkg with apt <br>**
-**3. If you do not know how to delete the repository: rm -rf Email-Spammer <br>**
-**4. if nothing helped you, then you can use the alternative below**
-
-</details>
-
------
-
-## Start Program
-#### Enter a command to start Email-Spamer.
-
-**Custom Email (custom_spam.py): <br>**
-
-* `cd Email-Spammer`
-* `python custom_spam.py`
-
-**Data Email (data_email.py): <br>**
-
-* `cd Email-Spammer`
-* `python data_email.py`
-
-**custom_spam.py: there you will need to select an email address for spam <br>**
-
-**data_email.py: This is so that you can send your IP and location data <br>**
-
-------
-
-#### If there are problems then look down there will be if failed to download.
-
-<details id="missing-code-coverage">
-  <summary>Need Help</summary>
-
-#### Do you need help? Write me on: developer.mishakorzhik@gmail.com
-#### And I will consider your letter and problem!
+<!-- Installation -->
+## 🛠️ Installation
 
 ```bash
-Emails:
- developer.mishakorzhik@gmail.com
-
-Developers:
- mishakorzhik
-
-Modders:
- trhacknon
+apt update
+apt upgrade
+pkg install git
+pkg install python
+git clone https://github.com/tucommenceapousser/Email-Spammer
+pip3 install requests
 ```
 
-## Bug?
-If the tool fails, follow these steps:
+<details id="missing-code-coverage">
+  <summary>💡 Besoin d'aide pour l'installation?</summary>
 
-1. Take a screenshot and see the error 
-   in detail
-
-2. Contact me through the following 
-   email: developer.mishakorzhik@gmail.com
-
-3. Submit the screenshot and explain 
-   your problem with that error
+1. Si tu rencontres des problèmes lors de l'installation de la bibliothèque requests : `python3 -m pip install requests, smtp`
+2. Si les modules ne peuvent pas être téléchargés : remplace pkg par apt
+3. Si tu ne sais pas comment supprimer le référentiel : `rm -rf Email-Spammer`
+4. Si rien n'a aidé, tu peux utiliser l'alternative ci-dessous
 
 </details>
 
--------
+---
 
-**Repository Views** ![Views](https://profile-counter.glitch.me/EmailSpammer/count.svg)
+<!-- Utilisation -->
+## ▶️ Démarrer le programme
 
-## Donate
+#### 1. Commande pour démarrer Email-Spamer avec un courrier personnalisé (`custom_spam.py`):
 
-**If you want to donate, click on the button**
+```bash
+cd Email-Spammer
+python custom_spam.py
+```
+
+#### 2. Commande pour démarrer Email-Spamer avec des données d'email (`data_email.py`):
+
+```bash
+cd Email-Spammer
+python data_email.py
+```
+
+---
+
+<!-- Besoin d'aide -->
+<details id="missing-code-coverage">
+  <summary>💬 Besoin d'aide?</summary>
+
+- Pour obtenir de l'aide, contacte-moi sur : `developer.mishakorzhik@gmail.com`
+- Développeurs : `mishakorzhik`
+- Moddeurs : `trhacknon`
+
+</details>
+
+---
+
+<!-- Vues du référentiel -->
+**Vues du référentiel** ![Views](https://profile-counter.glitch.me/EmailSpammer/count.svg)
+
+---
+
+<!-- Faire un don -->
+## 💖 Faire un don
+
+**Si tu veux faire un don, clique sur le bouton**
 <a href="https://www.buymeacoffee.com/misakorzik"><img title="Donate" src="https://img.shields.io/badge/Donate-EmailSpamer-yellow?style=for-the-badge&logo=github"></a>
 
-## Screenshot
+---
 
-#### here you can see a screenshot of Email-Spammer
-<br>
+<!-- Captures d'écran -->
+## 📸 Captures d'écran
+
+#### Voici des captures d'écran d'Email-Spammer
+
 <p align="center">
 <img width="49.1%" src="https://raw.githubusercontent.com/tucommenceapousser/Email-Spammer/main/src/IMG_20211018_221028.jpg"/> 
   <img width="49.1%" src="https://raw.githubusercontent.com/tucommenceapousser/Email-Spammer/main/src/IMG_20211018_221205.jpg"/> 
