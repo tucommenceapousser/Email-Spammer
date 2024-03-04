@@ -100,7 +100,7 @@ python data_email.py
 ---
 
 <!-- Vues du référentiel -->
-**Vues du référentiel** ![Views](https://profile-counter.glitch.me/EmailSpammer/count.svg)
+**Vues du référentiel** ![Views](![](https://komarev.com/ghpvc/?username=tucommenceapousser))
 
 ---
 
